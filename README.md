@@ -1,2 +1,2 @@
 # building_blockchain
-Practice for understanding blockchain
+Practice for understanding blockchain in python.
