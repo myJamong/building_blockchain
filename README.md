@@ -1,2 +1,2 @@
-# building_blockchain
-Practice for understanding blockchain in python.
+# python copy codes
+Practice for python copy codes.
